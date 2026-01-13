@@ -1,0 +1,1 @@
+I have been using Git for a while now so I am pretty familiar with everything covered here and do not really have any other questions or concerns.
