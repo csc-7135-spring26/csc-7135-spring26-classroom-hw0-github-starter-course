@@ -1,0 +1,9 @@
+I learn Git and GitHub is a porject working station that we can use to track, sharing, and collaborating with your teams.
+
+Also, learn the important terms of GitHub that help me familiarize how to use it. 
+- Repositories is the dashboard that helps to navigate and see useful infomation about the project.
+- Use branches when you don't want to merge the code for final use. 
+- Then, pull requests to ask the other teammate for feedback about the code you write.
+- Issues is use when the project has bugs that need to be fixed, and let the other know about any issues you have while working on the project.
+
+The part that I'm confused about is how I get the backup code if someone or me merg the code by accident. How do I get back to the code before merg?
